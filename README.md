@@ -32,17 +32,17 @@ robisz to jakkolwiek ci wygodnie, sam se znajdz
 
 3. **Zainstaluj dependencies**
 
-<del>
-daj uprawnienia dla skryptu
+
+~~daj uprawnienia dla skryptu~~
 ```bash
 chmod +x checkDependencies.sh
 ```
-potem go odpal
+~~potem go odpal~~
 ```bash
 ./checkDependencies.sh
 ```
-</del>
-Jeśli nie dziala to manualnie zainstaluj:
+
+~~Jeśli nie dziala to~~ manualnie zainstaluj:
 ```bash
 npm install axios form-data airtable
 ```
